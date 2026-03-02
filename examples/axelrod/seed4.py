@@ -1,4 +1,8 @@
-"""Originally SecondByBorufsen in Axelrod library."""
+"""Originally SecondByBorufsen in Axelrod library.
+
+Portions of this code were taken from https://github.com/Axelrod-Python/Axelrod/blob/dev/axelrod/strategies/axelrod_second.py
+Modified by T.J. Gaffney for use in openevolve.
+"""
 
 from axelrod.action import Action
 from axelrod.player import Player

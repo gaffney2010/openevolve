@@ -1,4 +1,8 @@
-"""Originally ForgetfulFoolMeOnce(0.05) in Axelrod library."""
+"""Originally ForgetfulFoolMeOnce(0.05) in Axelrod library.
+
+Portions of this code were taken from https://github.com/Axelrod-Python/Axelrod/blob/dev/axelrod/strategies/oncebitten.py
+Modified by T.J. Gaffney for use in openevolve.
+"""
 
 import random
 
